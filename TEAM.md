@@ -23,6 +23,10 @@
 3. Mobile app preview info — app name + branch version ID for BubbleGo
 4. Built on Bubble's native mobile editor
 
+## GitHub Repo
+
+**https://github.com/gabrielantonyxaviour/slow-bloom** — created 2026-05-24 as project archive
+
 ## Deadline
 
 **2026-05-22T06:59:00Z** — PASSED as of 2026-05-24
